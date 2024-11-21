@@ -1,1 +1,9 @@
 fastapi
+uvicorn
+django
+djangorestframework
+celery
+requests
+groq
+eventlet
+redis
